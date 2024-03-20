@@ -8,7 +8,7 @@ The password complexity checker provided here is for informational purposes only
 
 # For Windows
 
-### I recommended to run as python IDE like Pythoncharm, python.
+### I recommend running the code in a Python IDE such as PyCharm or simply using Python.
 
 
 Step 1: Download the zip file and extract it.
@@ -19,7 +19,7 @@ Step 3: Set-up the python environment for IDE only.
 
 Step 4: Run the program on python IDE.
 
-### Example 
+### Output of Image's
 
 ![Screenshot 2024-03-21 021244](https://github.com/blackhatdk/PRODIGY_CS_02_PIXEL-MANIPULATION-FOR-IMAGE-ENCRYPTION/assets/134546586/c50bd8a4-697b-42da-84ea-893ac853964e)
 
@@ -35,6 +35,9 @@ sudo git clone https://github.com/blackhatdk/PRODIGY_CS_03_PASSWORD-COMPLEXITY_C
 cd PRODIGY_CS_03_PASSWORD-COMPLEXITY_CHECKER
 sudo python main.py
 ```
+### Output of Image's
+
+![Screenshot 2024-03-21 022609](https://github.com/blackhatdk/PRODIGY_CS_04_SIMPLE-KEYLOGGER/assets/134546586/053307a1-b132-42e0-aa98-6c9e8be6c8ca)
 
 # Contact
 If you're facing any issue with the usage of script, drop Mail to bktech1314@gmail.com .
