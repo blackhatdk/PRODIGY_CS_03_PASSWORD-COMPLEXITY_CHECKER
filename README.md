@@ -21,7 +21,7 @@ Step 3: Set-up the python environment for IDE only.
 
 Step 4: Run the program on python IDE.
 
-### Output of Image's
+### Output 
 
 ![Screenshot 2024-03-21 021244](https://github.com/blackhatdk/PRODIGY_CS_02_PIXEL-MANIPULATION-FOR-IMAGE-ENCRYPTION/assets/134546586/c50bd8a4-697b-42da-84ea-893ac853964e)
 
@@ -37,7 +37,7 @@ sudo git clone https://github.com/blackhatdk/PRODIGY_CS_03_PASSWORD-COMPLEXITY_C
 cd PRODIGY_CS_03_PASSWORD-COMPLEXITY_CHECKER
 sudo python main.py
 ```
-### Output of Image's
+### Output 
 
 ![Screenshot 2024-03-21 022609](https://github.com/blackhatdk/PRODIGY_CS_04_SIMPLE-KEYLOGGER/assets/134546586/053307a1-b132-42e0-aa98-6c9e8be6c8ca)
 
