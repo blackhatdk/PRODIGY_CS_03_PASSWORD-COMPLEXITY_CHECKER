@@ -32,6 +32,8 @@ Step 4: Run the program on python IDE.
 
 Clone | Download the Repository => then open a terminal | command prompt to your project, and then run the main.py script.
 
+### Command to Use
+
 ```bash
 sudo git clone https://github.com/blackhatdk/PRODIGY_CS_03_PASSWORD-COMPLEXITY_CHECKER.git
 cd PRODIGY_CS_03_PASSWORD-COMPLEXITY_CHECKER
