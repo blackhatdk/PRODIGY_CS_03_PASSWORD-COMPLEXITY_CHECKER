@@ -13,6 +13,6 @@ The password complexity checker provided here is for informational purposes only
 
 Step1: Download the zip file and extract it.
 
-Step2: Run "main.py" on cmd or Python IDE.
+Step2: Click the "main.py" file to run on cmd or Python IDE.
 
-Step3: Now automatic open "cmd dialog box".
+Step3: Run the program on python IDE.
