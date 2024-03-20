@@ -11,8 +11,30 @@ The password complexity checker provided here is for informational purposes only
 ### I recommended to run as python IDE like Pythoncharm, python.
 
 
-Step1: Download the zip file and extract it.
+Step 1: Download the zip file and extract it.
 
-Step2: Click the "main.py" file to run on cmd or Python IDE.
+Step 2: Click the "main.py" file to run on cmd or Python IDE.
 
-Step3: Run the program on python IDE.
+Step 3: Set-up the python environment for IDE only.
+
+Step 4: Run the program on python IDE.
+
+### Example 
+
+![Screenshot 2024-03-21 021244](https://github.com/blackhatdk/PRODIGY_CS_02_PIXEL-MANIPULATION-FOR-IMAGE-ENCRYPTION/assets/134546586/c50bd8a4-697b-42da-84ea-893ac853964e)
+
+
+![Screenshot 2024-03-21 021315](https://github.com/blackhatdk/PRODIGY_CS_02_PIXEL-MANIPULATION-FOR-IMAGE-ENCRYPTION/assets/134546586/53d5491c-9871-457d-a0a7-29c1f4f4b5fd)
+
+# Linux
+
+Clone | Download the Repository => then open a terminal | command prompt to your project, and then run the main.py script.
+
+```bash
+sudo git clone https://github.com/blackhatdk/PRODIGY_CS_03_PASSWORD-COMPLEXITY_CHECKER.git
+cd PRODIGY_CS_03_PASSWORD-COMPLEXITY_CHECKER
+sudo python main.py
+```
+
+# Contact
+If you're facing any issue with the usage of script, drop Mail to bktech1314@gmail.com .
