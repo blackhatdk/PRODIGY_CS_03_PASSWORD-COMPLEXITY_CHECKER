@@ -8,6 +8,8 @@ The password complexity checker provided here is for informational purposes only
 
 # For Windows
 
+### HOW TO USE
+
 ### I recommend running the code in a Python IDE such as PyCharm or simply using Python.
 
 
